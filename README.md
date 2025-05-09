@@ -1,4 +1,5 @@
-<h1 align="left">Selamat Pagi!🌄 Azuka disini❤️</h1>
+<h1 align="left">Selamat Pagi!🌄 Azuka disini❤️ </h1>
+<h1 align="left">おはよう！🌄 アズカはここにいる❤️ </h1>
 
 ###
 
@@ -16,7 +17,7 @@
 
 ###
 
-<h2 align="center">LANGUAGE THAT I LEARNT 📖 | 私が学んだ言語 📖</h2>
+<h2 align="center">LANGUAGE THAT I LEARNT | ランゲージ 📖</h2>
 
 ###
 
@@ -27,8 +28,6 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
@@ -37,8 +36,21 @@
 </div>
 
 ###
+<h2 align="center">LIBRARY THAT I MOSTLY USE | ライブラリー📚</h2>
 
-<h2 align="center">SOFTWARE THAT I USED FOR | 私が使用したソフトウェア</h2>
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
+</div>
+
+###
+
+<h2 align="center">SOFTWARE THAT I USED FOR | ソフトウェア</h2>
 
 ###
 
