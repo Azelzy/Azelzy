@@ -1,21 +1,16 @@
-<h2 align="left">Selamat Pagi!🌄 Azuka disini❤️</h2>
+<h1 align="left">Selamat Pagi!🌄 Azuka disini❤️</h1>
 
-###
+##
 
 <div align="center">
   <img height="350" src="https://media1.tenor.com/m/eaNIf0hiKPkAAAAd/nichijou-selamat-pagi.gif"  />
 </div>
 
-###
-
-<br clear="both">
+##
 
 <h3 align="center">LANGUAGE THAT I LEARNT</h3>
 
-###
-
-<br clear="both">
-
+##
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="25" />
@@ -32,11 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
+
 
 <h2 align="center">SOFTWARE THAT I USED FOR</h2>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -56,23 +51,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<h3 align="center">RECENTLY POST</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Azelzy&theme=synthwave" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/AZKAZKAZKA">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=AZKAZKAZKA&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vgwrcri8ooj60jht8vi85o1u6&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+##
+
+
+
 
