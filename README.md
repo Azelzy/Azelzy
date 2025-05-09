@@ -1,5 +1,5 @@
 <h1 align="left">Selamat Pagi!🌄 Azuka disini❤️ </h1>
-<h1 align="left">おはよう！🌄 アズカはここにいる❤️ </h1>
+<h1 align="left">おはよう！🌄 あずかはここにいる❤️ </h1>
 
 ###
 
