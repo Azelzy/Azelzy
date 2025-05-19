@@ -1,7 +1,8 @@
-<h1 align="left">Selamat Pagi!🌄 Azuka disini❤️ </h1>
-<h1 align="left">おはよう！🌄 あずかはここにいる❤️ </h1>
+<h1 align="left">Selamat Pagi!🌄 Azuka disini❤️</h1>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img height="350" src="https://media1.tenor.com/m/eaNIf0hiKPkAAAAd/nichijou-selamat-pagi.gif"  />
@@ -9,15 +10,23 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/vgwrcri8ooj60jht8vi85o1u6">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vgwrcri8ooj60jht8vi85o1u6&count=1&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vgwrcri8ooj60jht8vi85o1u6&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<h2 align="center">LANGUAGE THAT I LEARNT | ランゲージ 📖</h2>
+<h2 align="center">LANGUAGE THAT I LEARNT 📖</h2>
 
 ###
 
@@ -36,100 +45,38 @@
 </div>
 
 ###
-<h2 align="center">LIBRARY THAT I MOSTLY USE | ライブラリー📚</h2>
+
+<div align="center">
+  <img height="350" src="https://media1.tenor.com/m/S-Co5OMRptUAAAAd/miku-hatsune-miku.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Azelzy/Azelzy/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center">LIBRARY THAT I MOSTLY USE 📚</h2>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="25" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="25" />
+  <img width="40" />
   <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
 </div>
 
 ###
 
-<h2 align="center">SOFTWARE THAT I USED FOR | ソフトウェア</h2>
-
-###
-
-<h2 align="center">For Code | コード </></h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img height="200" src="https://media.tenor.com/d5INxd32FoMAAAAi/triple-baka-miku.gif"  />
 </div>
 
 ###
 
-<h2 align="center">For UI/UX | UI/UXデザイン 📱</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h2 align="center">3D MODELLING | 3Dモデリング 🧊</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-</div>
-
-###
-
-<h2 align="center">For GameDev | ゲームDev 🎮</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-</div>
-
-###
-
-<h1 align="center">MISC</h1>
-
-
-###
-
-<h2 align="center">パックマン 👾</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Azelzy]/[Azelzy]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Azelzy]/[Azelzy]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[Azelzy]/[Azelzy]/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<p align="center">Coming Soon !!</p>
-
-###
-
-<h2 align="center">スネーク 🐍</h2>
-
-###
-
-<p align="center">Coming Soon !!</p>
+<h2 align="center"></h2>
 
 ###
 
@@ -137,6 +84,31 @@
 
 ###
 
-<p align="center">Coming Soon !!</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azelzy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azelzy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/UgaBePi8TxgAAAAC/kasane-teto-teto.gif"  />
+</div>
+
+###
+
+<p align="center">SOCIAL MEDIA</p>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://media1.tenor.com/m/lPxty4wa4nEAAAAd/bekasi-indonesia.gif"  />
+</div>
 
 ###
