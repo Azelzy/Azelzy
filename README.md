@@ -74,7 +74,7 @@
 ## 🌐 Social Media
 
 <div align="center">
-  <a href="YOUR_FACEBOOK_LINK_HERE">
+  <a href="https://www.facebook.com/profile.php?id=61574071302904&locale=id_ID">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
   </a>
 </div>
@@ -91,7 +91,8 @@
   
 **Thanks for visiting my profile!** ✨
 <div align="center">
-<img height="200" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif" />
+<img height="200" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif" 
 ![Visitor Count](https://profile-counter.glitch.me/Azelzy/count.svg)
 
 </div>
+/>
