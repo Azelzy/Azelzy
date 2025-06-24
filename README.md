@@ -91,7 +91,7 @@
   
 **Thanks for visiting my profile!** ✨
 <div align="center">
-<img height="200" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif" 
+<img height="200" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"/>
 ![Visitor Count](https://profile-counter.glitch.me/Azelzy/count.svg)
 
 </div>
