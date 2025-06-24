@@ -88,11 +88,8 @@
 ---
 
 <div align="center">
-  
-**Thanks for visiting my profile!** ✨
-<div align="center">
-<img height="200" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"/>
-![Visitor Count](https://profile-counter.glitch.me/Azelzy/count.svg)
-
+  <b>Thanks for visiting my profile!</b> ✨
+  <br>
+  <img height="200" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif">
+  <img src="https://profile-counter.glitch.me/Azelzy/count.svg" alt="Visitor Count">
 </div>
-/>
