@@ -56,17 +56,6 @@
 
 ###
 
-<h2 align="center">LIBRARY THAT I MOSTLY USE 📚</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="40" />
-</div>
-
-###
-
 <div align="center">
   <img height="200" src="https://media.tenor.com/d5INxd32FoMAAAAi/triple-baka-miku.gif"  />
 </div>
