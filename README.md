@@ -76,8 +76,6 @@
 
 ---
 
-## 🏙️ From Bekasi with 💖
-
 <div align="center">
   <img src="https://media1.tenor.com/m/lPxty4wa4nEAAAAd/bekasi-indonesia.gif" height="300" alt="Bekasi Indonesia" />
 </div>
