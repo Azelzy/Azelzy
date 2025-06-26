@@ -1,95 +1,92 @@
-# Selamat Pagi! 🌄 Azuka disini ❤️
+# おはようございます！🌸 アズカ です ❤️
 
 <div align="center">
-  <img height="350" src="https://media1.tenor.com/m/eaNIf0hiKPkAAAAd/nichijou-selamat-pagi.gif" />
+  <img src="https://media1.tenor.com/m/eaNIf0hiKPkAAAAd/nichijou-selamat-pagi.gif" height="350" alt="Selamat Pagi GIF" />
 </div>
 
 ---
 
-## 📊 Contribution Graph
+## 🎮 私の GitHub 活動 （My GitHub Activities）
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph.svg" alt="Contribution Graph" />
 </picture>
 
 ---
 
-## 🎵 Currently Listening
+## 🎧 今、聴いている曲 ~ *Now Playing*
 
 <div align="center">
   <a href="https://open.spotify.com/user/vgwrcri8ooj60jht8vi85o1u6">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vgwrcri8ooj60jht8vi85o1u6&count=1&unique=true" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vgwrcri8ooj60jht8vi85o1u6&count=1&unique=true" alt="Spotify Recently Played" />
   </a>
 </div>
 
 ---
 
-## 📖 Languages That I Learnt
+## 💻 学んだプログラミング言語 *Languages I Know*
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img width="25" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img width="25" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img width="25" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img width="25" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
-  <img width="25" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
 </div>
 
 <div align="center">
-  <img height="350" src="https://media1.tenor.com/m/S-Co5OMRptUAAAAd/miku-hatsune-miku.gif" />
+  <img src="https://media1.tenor.com/m/S-Co5OMRptUAAAAd/miku-hatsune-miku.gif" height="300" alt="Miku Dancing" />
 </div>
 
 ---
 
-## 🐍 Snake Animation
-
-<img src="https://raw.githubusercontent.com/Azelzy/Azelzy/output/snake.svg" alt="Snake animation" />
+## 🐍 スネークアニメーション *Snake Animation*
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/d5INxd32FoMAAAAi/triple-baka-miku.gif" />
+  <img src="https://raw.githubusercontent.com/Azelzy/Azelzy/output/snake.svg" alt="GitHub Snake Animation" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub 統計 *GitHub Stats*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azelzy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azelzy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/UgaBePi8TxgAAAAC/kasane-teto-teto.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Azelzy&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azelzy&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 ---
 
-## 🌐 Social Media
+## 📱 ソーシャルリンク *Find Me On*
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=61574071302904&locale=id_ID">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" alt="Facebook" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img height="400" src="https://media1.tenor.com/m/lPxty4wa4nEAAAAd/bekasi-indonesia.gif" />
+  <img src="https://media1.tenor.com/m/lPxty4wa4nEAAAAd/bekasi-indonesia.gif" height="350" alt="Bekasi Gif" />
 </div>
 
 ---
 
 <div align="center">
-  <b>Thanks for visiting my profile!</b> ✨
-  <br>
-  <img height="200" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif">
-  <img src="https://profile-counter.glitch.me/Azelzy/count.svg" alt="Visitor Count">
+  <img src="https://media1.tenor.com/d5INxd32FoMAAAAi/triple-baka-miku.gif" height="200" />
+  <br />
+  <b>見てくれてありがとう！~ Thanks for stopping by!</b> ✨
+  <br /><br />
+  <img src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif" height="150" />
+  <br />
+  <img src="https://profile-counter.glitch.me/Azelzy/count.svg" alt="Visitor Count" />
 </div>
