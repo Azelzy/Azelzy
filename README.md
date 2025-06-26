@@ -9,6 +9,10 @@
 
 ## 🕹️ GitHub 活動グラフ — *Contribution Graph*
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/S-Co5OMRptUAAAAd/miku-hatsune-miku.gif" height="250" alt="Miku Dancing" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph.svg">
@@ -41,10 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-</div>
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/S-Co5OMRptUAAAAd/miku-hatsune-miku.gif" height="250" alt="Miku Dancing" />
 </div>
 
 ---
