@@ -7,7 +7,7 @@
 
 ---
 
-## 🕹️ GitHub 活動グラフ — *Contribution Graph*
+## 🕹️ GitHub — *Contribution Graph*
 
 <div align="center">
   <img src="https://media1.tenor.com/m/S-Co5OMRptUAAAAd/miku-hatsune-miku.gif" height="250" alt="Miku Dancing" />
@@ -21,7 +21,7 @@
 
 ---
 
-## 🎧 現在聴いている音楽 — *Currently Listening*
+## 🎧 *Currently Listening*
 
 <div align="center">
   <a href="https://open.spotify.com/user/vgwrcri8ooj60jht8vi85o1u6">
@@ -31,7 +31,7 @@
 
 ---
 
-## 💻 使用できる言語 — *Languages I Use* 🧠✨
+## 💻 *Languages I Use* 🧠✨
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
@@ -66,7 +66,7 @@
 
 ---
 
-## 🌐 ソーシャルリンク — *Find Me Online* ✨📱
+## 🌐 *Find Me Online* ✨📱
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=61574071302904&locale=id_ID">
