@@ -49,7 +49,7 @@
 
 ---
 
-## 🐍 スネークアニメーション — *Snake Eating My Contributions*
+## 🐍 *Snake Eating My Contributions*
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Azelzy/Azelzy/output/snake.svg" alt="GitHub Snake Animation" />
@@ -57,7 +57,7 @@
 
 ---
 
-## 📈 GitHub スタッツ — *My GitHub Stats* 📊🔥
+## 📈 *My GitHub Stats* 📊🔥
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azelzy&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&rank_icon=github&custom_title=アズカのGitHub統計" height="150" />
@@ -87,7 +87,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/d5INxd32FoMAAAAi/triple-baka-miku.gif" height="200" />
   <br />
-  <b>ご訪問ありがとうございます！また来てくださいね！~ Thanks for visiting my profile!</b> 💫
+  <b> ~ Thanks for visiting my profile!</b> 💫
   <br /><br />
   <img src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif" height="150" />
   <br /><br />
