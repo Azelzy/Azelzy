@@ -82,7 +82,7 @@
 
 ---
 
-## ✨ 終わりに — *Thanks for Visiting!* 🙇‍♀️💕
+## ✨ *Thanks for Visiting!* 🙇‍♀️💕
 
 <div align="center">
   <img src="https://media1.tenor.com/d5INxd32FoMAAAAi/triple-baka-miku.gif" height="200" />
