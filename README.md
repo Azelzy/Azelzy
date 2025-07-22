@@ -76,6 +76,4 @@
 
 <img src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif" height="150" />
 
-<img src="https://profile-counter.glitch.me/Azelzy/count.svg" alt="Visitor Count" />
-
 </div>
