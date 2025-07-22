@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 おはようございます！アズカです ❤️  
+# 🌸 おはようございます！アズカです 🌸  
 *"Bismillahirrahmanirrahim - بسم الله الرحمن الرحيم"* 🌞💻
 
 <img src="https://media1.tenor.com/m/eaNIf0hiKPkAAAAd/nichijou-selamat-pagi.gif" height="350" alt="Nichijou - Selamat Pagi GIF" />
