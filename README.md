@@ -27,7 +27,7 @@
 
 ---
 
-## 💻 *Languages I Use* 🔰✨
+## 💻 *Languages I learnt* 🔰✨
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
 <img width="20" />
