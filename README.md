@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌸 おはようございます！アズカです 🌸  
-*"Bismillahirrahmanirrahim - بسم الله الرحمن الرحيم"* 🌞💻
+*"Bismillahirrahmanirrahim - بسم الله الرحمن الرحيم"*
 
 <img src="https://media1.tenor.com/m/eaNIf0hiKPkAAAAd/nichijou-selamat-pagi.gif" height="300" alt="朝の挨拶" />
 
