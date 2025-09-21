@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 おはようございます！アズカです 🌸  
+# 🌸 おはよ〜！アズカだよ 🌸  
 *"Bismillahirrahmanirrahim - بسم الله الرحمن الرحيم"*
 
 <img src="https://media1.tenor.com/m/eaNIf0hiKPkAAAAd/nichijou-selamat-pagi.gif" height="300" alt="朝の挨拶" />
@@ -9,8 +9,8 @@
 
 ## 🎯 **プロフィール**
 
-フルスタック開発者として、ウェブとモバイルアプリケーションの開発に情熱を注いでいます。  
-新しい技術を学び、革新的なソリューションを創造することが大好きです。
+フルスタックでWebとかモバイルアプリ作ってるよ！  
+新しい技術とか試すのめっちゃ好きで、面白いもの作るのワクワクしてるんだ〜✨
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🎧 **現在聴いている音楽**
+## 🎧 **いま聴いてる音楽**
 
 <a href="https://open.spotify.com/user/vgwrcri8ooj60jht8vi85o1u6">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=vgwrcri8ooj60jht8vi85o1u6&count=1&unique=true" alt="スポティファイ 最近再生した曲" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 🌐 **ソーシャルメディア**
+## 🌐 **SNSとか**
 
 [![インスタグラム](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azelzyy) 
 [![リンクトイン](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azka-el-fachrizy) 
@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 **ギットハブ統計**
+## 📊 **GitHubのやつ**
 
 <div align="center">
   
@@ -98,13 +98,13 @@
 
 ![ストリーク統計](https://nirzak-streak-stats.vercel.app/?user=Azelzy&theme=gruvbox&hide_border=true)
 
-![最も使用した言語](https://github-readme-stats.vercel.app/api/top-langs/?username=Azelzy&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![最も使ってる言語](https://github-readme-stats.vercel.app/api/top-langs/?username=Azelzy&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
 ---
 
-## 🏆 **ギットハブトロフィー**
+## 🏆 **トロフィー**
 
 <div align="center">
   
@@ -114,7 +114,7 @@
 
 ---
 
-## 🔝 **トップコントリビューションリポジトリ**
+## 🔝 **よくコントリビュートしてるリポジトリ**
 
 <div align="center">
   
@@ -124,10 +124,10 @@
 
 ---
 
-## 📬 **お問い合わせ**
+## 📬 **連絡まってるよ！**
 
-プロジェクトのコラボレーションやお仕事のご相談は、いつでもお気軽にご連絡ください！  
-新しいアイデアや技術的な挑戦を常に歓迎しています。
+プロジェクトのコラボとかお仕事の相談、いつでも気軽に声かけてね！  
+新しいアイデアとか挑戦するの超好きだから大歓迎だよ〜🙌
 
 ---
 
@@ -135,14 +135,14 @@
 
 [![visitor count](https://visitcount.itsvg.in/api?id=Azelzy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ✨ **ご訪問ありがとうございます！** 🙇‍♀️💕
+## ✨ **見に来てくれてありがと！** 🙇‍♀️💕
 
 <img src="https://media1.tenor.com/d5INxd32FoMAAAAi/triple-baka-miku.gif" height="150" />
 
-**プロフィールをご覧いただき、ありがとうございました！** 💫
+**読んでくれてありがとね！** 💫
 
 <img src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif" height="120" />
 
-*今日も素晴らしい一日をお過ごしください！* 🌟
+*今日もいい一日を過ごしてね〜！* 🌟
 
 </div>
