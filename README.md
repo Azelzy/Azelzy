@@ -1,32 +1,6 @@
 <div align="center">
 
-# 🌸 おはよ〜！アズカだよ 🌸  
-*"Bismillahirrahmanirrahim - بسم الله الرحمن الرحيم"*
-
-<img src="https://media1.tenor.com/m/eaNIf0hiKPkAAAAd/nichijou-selamat-pagi.gif" height="300" alt="朝の挨拶" />
-
----
-
-## 🎯 **プロフィール**
-
-フルスタックでWebとかモバイルアプリ作ってるよ！  
-新しい技術とか試すのめっちゃ好きで、面白いもの作るのワクワクしてるんだ〜✨
-
----
-
-## 🕹️ **コントリビューショングラフ**
-
-<img src="https://media1.tenor.com/m/S-Co5OMRptUAAAAd/miku-hatsune-miku.gif" height="200" alt="初音ミク" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/Azelzy/Azelzy/output/pacman-contribution-graph.svg" alt="パックマン コントリビューショングラフ" />
-</picture>
-
----
-
-## 🎧 **いま聴いてる音楽**
+# 「誕生日はいつですか?」
 
 <a href="https://open.spotify.com/user/vgwrcri8ooj60jht8vi85o1u6">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=vgwrcri8ooj60jht8vi85o1u6&count=1&unique=true" alt="スポティファイ 最近再生した曲" />
@@ -34,15 +8,13 @@
 
 ---
 
-## 🌐 **SNSとか**
-
+## **SNS**
 [![インスタグラム](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azelzyy) 
 [![リンクトイン](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azka-el-fachrizy) 
 [![メール](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azkaelfachrizy@gmail.com)
 
 ---
 
-## 💻 **テックスタック**
 
 ### **プログラミング言語**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -90,8 +62,6 @@
 
 ---
 
-## 📊 **GitHubのやつ**
-
 <div align="center">
   
 ![ギットハブ統計](https://github-readme-stats.vercel.app/api?username=Azelzy&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)
@@ -104,18 +74,6 @@
 
 ---
 
-## 🏆 **トロフィー**
-
-<div align="center">
-  
-![トロフィー](https://github-profile-trophy.vercel.app/?username=Azelzy&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 🔝 **よくコントリビュートしてるリポジトリ**
-
 <div align="center">
   
 ![トップコントリビューション](https://github-contributor-stats.vercel.app/api?username=Azelzy&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
@@ -123,26 +81,3 @@
 </div>
 
 ---
-
-## 📬 **連絡まってるよ！**
-
-プロジェクトのコラボとかお仕事の相談、いつでも気軽に声かけてね！  
-新しいアイデアとか挑戦するの超好きだから大歓迎だよ〜🙌
-
----
-
-<div align="center">
-
-[![visitor count](https://visitcount.itsvg.in/api?id=Azelzy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## ✨ **見に来てくれてありがと！** 🙇‍♀️💕
-
-<img src="https://media1.tenor.com/d5INxd32FoMAAAAi/triple-baka-miku.gif" height="150" />
-
-**読んでくれてありがとね！** 💫
-
-<img src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif" height="120" />
-
-*今日もいい一日を過ごしてね〜！* 🌟
-
-</div>
