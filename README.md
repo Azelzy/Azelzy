@@ -28,9 +28,9 @@ Figma • Canva • Framer
 
 ## GitHub統計
 
-![統計](https://github-readme-stats.vercel.app/api?username=Azelzy&theme=gruvbox&hide_border=true&show_icons=true&count_private=true)
+![統計](https://github-readme-stats.vercel.app/api?username=azelzyy&theme=gruvbox&hide_border=true&show_icons=true&count_private=true)
 
-![最も使用している言語](https://github-readme-stats.vercel.app/api/top-langs/?username=Azelzy&theme=gruvbox&hide_border=true&layout=compact)
+![最も使用している言語](https://github-readme-stats.vercel.app/api/top-langs/?username=azelzyy&theme=gruvbox&hide_border=true&layout=compact)
 
 ---
 
