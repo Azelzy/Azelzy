@@ -1,8 +1,8 @@
 <div align="left">
   <img 
-    src="https://media1.tenor.com/m/eaNIf0hiKPkAAAAd/nichijou-selamat-pagi.gif" 
+    src="https://media.tenor.com/mYEUFiVKFfoAAAAi/shion-tatsunami.gif" 
     height="300" 
-    alt="朝の挨拶" 
+    alt="" 
   />
 </div>
 
@@ -93,3 +93,6 @@
     alt="GitHub Streak Stats" 
   />
 </div>
+
+-------------------------
+
